@@ -1,4 +1,8 @@
 ```
+nest start admin
+```
+
+```
 ERROR in ./node_modules/@nestjs/core/nest-application.js 16:102-145
 Module not found: Error: Can't resolve '@nestjs/websockets/socket-module' in '/home/romain/Code/nix-nest/node_modules/@nestjs/core'
  @ ./node_modules/@nestjs/core/index.js 25:21-50
